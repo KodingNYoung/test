@@ -1,0 +1,4 @@
+export const BaseURL = 'https://juction-api.herokuapp.com';
+export const paymentToken =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXJjaGFudF9pZCI6MiwiZW1haWwiOiJ2Zi5vbG9maW5sYWRlQDM4NmtvbnN1bHQuY29tIiwibmFtZSI6IlZpY3RvciBGdW5taXBlIiwiYXVkaXRvcl9pZCI6MSwiaWF0IjoxNjI2NDYxMjM3fQ.Lpg3zZ2OQwYuRz606kqU1HClDQKrrET0VvwMLwYXBEs';
+export const api_key = 'ceec556d02d03e6fdafd6dbd5c893bdad481f234';

@@ -1,0 +1,12 @@
+.primary_button {
+  background: #1790cf;
+  color: #fff;
+}
+textarea {
+  text-align: inherit;
+}
+.auditor-compliance-tabs svg {
+  color: #000;
+  width: 15px !important;
+  height: 15px !important;
+}

@@ -1,0 +1,27 @@
+.sm-modal-container {
+  width: 30%;
+  margin: auto;
+  border-radius: 10px;
+  background: #fff;
+  padding: 2%;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
+.bg-modal-container {
+  width: 70%;
+  margin: auto;
+  border-radius: 10px;
+  background: #fff;
+  padding: 2%;
+  position: absolute;
+  top: 7vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 85vh;
+  left: 20%;
+}
+
+.alert-content {
+  text-align: center;
+}
